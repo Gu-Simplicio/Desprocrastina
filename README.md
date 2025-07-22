@@ -6,7 +6,7 @@ Basicamente, isso é um projeto simples de construção de uma mini extensão pa
 
 ## Funcionamento do projeto
 
-Assim que o usuário entrar em algum dos sites cadastrados na extensão e ficar mais de 30 segundos ele será redirecionado aleatoriamente para algum dos sites de estudo cadastrados.
+Assim que o usuário entrar em algum dos sites cadastrados na extensão e ficar mais de 3 minutos ele será redirecionado aleatoriamente para algum dos sites de estudo cadastrados.
 
 ### Os sites cadastrados em si são:
 > ### Sites de "procrastinação"
