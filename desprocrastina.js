@@ -1,5 +1,5 @@
 //lista dos sites educativos
-const SITES_EDUCATIVOS = ["github"];
+const SITES_EDUCATIVOS = ["github", "leetcode", "codeacademy"];
 //lista dos sites não educativos
 const SITES_PROCRASTINADORES = ["youtube", "instagram", "tiktok", "x"];
 

@@ -1,4 +1,4 @@
-# Desprocrastina
+# Desprocrastina 1.0.1
 
 ## Qual o propósito desse projeto?
 
@@ -16,3 +16,5 @@ Assim que o usuário entrar em algum dos sites cadastrados na extensão e ficar 
 
 > ### Sites de "estudo"
 * GitHub;
+* LeetCode;
+* codeAcademy;
