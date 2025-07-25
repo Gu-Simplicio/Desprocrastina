@@ -1,7 +1,7 @@
 //lista dos sites educativos
 const SITES_EDUCATIVOS = ["github"];
 //lista dos sites não educativos
-const SITES_PROCRASTINADORES = ["youtube", "instagram", "tiktok"];
+const SITES_PROCRASTINADORES = ["youtube", "instagram", "tiktok", "x"];
 
 //intervalo que checa o site que o usuário está
 setInterval(
