@@ -18,9 +18,10 @@ setInterval(
 
                 //redireciona o usuário para um site correto
                 alert("Te redirecionando para um site correto!");
-                location.host = `www.${siteEducativo}.com`; 
+                window.location.href = `https://www.${siteEducativo}.com/`; 
             }
         });        
     },
-    180000
+    1000
+    //180000
 )
