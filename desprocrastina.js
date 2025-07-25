@@ -6,7 +6,7 @@ const SITES_PROCRASTINADORES = ["youtube", "instagram", "tiktok", "x"];
 //intervalo que checa o site que o usuário está
 setInterval(
     () => {
-        //captura a url do site
+        //captura a url do sit
         let url = window.location.host;
 
         //loop forEach que checa se o site é procrastinador
@@ -22,6 +22,5 @@ setInterval(
             }
         });        
     },
-    1000
-    //180000
+    180000 //funciona a cada 3min (escrito em ms)
 )
